@@ -26,8 +26,8 @@ Open the file2.txt it will copy the input and display.
 
 ## PROGRAM:
 ```
-Developed by: Aakashraj M
-Register number: 22008579
+Developed by: Gokul J
+Register number: 22009062
 
 with open('a1.txt','r')as firstfile:
     with open('a2.txt','a')as secondfile:
